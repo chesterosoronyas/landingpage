@@ -1,2 +1,2 @@
 # landingpage
-This is landing page for frontend mentor challenfe
+This is landing page for frontend mentor challenge
